@@ -1,0 +1,163 @@
+body{
+    margin: 0;
+    text-align: center;
+    color: #252928;
+    
+}
+h1{
+    font-family:'Sofia';
+    margin-top: 0;  
+    font-weight: normal;
+}
+h2{
+    font-family:'Sofia';
+  margin-top: 0;
+  color: gray;
+  font-weight: normal;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+    line-height: 2;
+}
+
+h3{
+ font-family:'Sofia';
+  margin-top: 0;
+  color: gray;
+  font-weight: normal;
+
+}
+p{
+    font-family: 'Sofia';
+    margin: 0px;
+    line-height: 2;
+}
+.para{
+    line-height: 2;
+    font-family:'Sofia';
+    font-weight: normal;
+}
+
+.top-container{
+    background-color:#8ddee2 ;
+    position: relative;
+    padding-top:100px;
+    
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+}
+.pro{
+    text-decoration: underline;
+}
+.upper-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.profile{
+    background-color: #b4dedf;
+    padding: 30px;
+}
+.skills{
+    background-color: #9bdbdb;
+    padding: 30px;
+   
+}
+.who{
+    width: 25%;
+    float: left;
+    margin-right: 30px ;
+}
+.what{
+    width: 32%;
+    float: right;
+    margin-left: 30px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto auto auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+/* .help{
+    width: 30%;
+    margin: auto;
+} */
+.contact-me{
+    background-color: #b8d6d6;
+    
+    
+}
+.bottom-container{
+    background-color: #b8d6d6;
+    padding-top:40px;
+    
+    
+}
+.patient{
+    font-family: Coronetscript, cursive;
+    color: rgb(82, 151, 190);
+    font-size: 0.75rem;
+    padding-top: 20px;
+    
+}
+hr{
+    margin:auto;
+    border: dotted #752bb1 6px;
+    border-bottom: none;
+    width: 4%;
+}
+.message{
+    text-align: center;
+    width: 40%;
+   padding: 40px;
+   padding-left: 30%;
+}
+.myButton {
+	box-shadow: 3px 4px 0px 0px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:15px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:7px 25px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #283966;
+   
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #38aa7e 5%, #1fb839 100%);
+	background-color:#9b9438;
+}
+.but{
+    padding-top: 20px;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.footer-link{
+    font-family: Coronetscript, cursive;
+    color: rgb(88, 35, 138);
+    margin: 10px 20px;
+    text-decoration:none;
+}
+a.footer-link:hover{
+    color:rgb(60, 161, 35);
+
+}
+
+
